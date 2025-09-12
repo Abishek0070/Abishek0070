@@ -75,12 +75,6 @@
 
 ---
 
-## 🚀 Profile Views
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Abishek0070&icon=3&color=4" alt="Profile Views" /></a>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="420"/>
