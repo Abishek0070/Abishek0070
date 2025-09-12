@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Abishek B - AI/ML Enthusiast | Quantum Computing Explorer" width="100%"/>
+  < alt="Abishek B - AI/ML Enthusiast | Quantum Computing Explorer" width="100%"/>
 </p>
 
 
