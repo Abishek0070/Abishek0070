@@ -6,12 +6,9 @@
 ---
 
 ## 💫 About Me
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
-- 👯 I’m looking to collaborate on **AI** and **Quantum Computing** projects  
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**    
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abishek-b-56808533b)  
 - 😄 Pronouns: **he/him**  
-- ⚡ Fun fact: I love **Quantum Computing**
-
 ---
 
 ## 🌐 Socials
@@ -48,10 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abishek0070&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" width="48%"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abishek0070&theme=dark&hide_border=false" alt="Streak stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek0070&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 </p>
 
 ---
