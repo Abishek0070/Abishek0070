@@ -15,7 +15,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31203028)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishekbalamurugan858@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abishek0070&color=blueviolet&style=flat-square&label=Victims+Who+Visited)
 
 </div>
 
