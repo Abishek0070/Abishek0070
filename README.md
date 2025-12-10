@@ -99,8 +99,6 @@ class Developer:
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abishek0070&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek0070&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=FF6B6B&currStreakLabel=FFFFFF" />
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
 
@@ -108,7 +106,7 @@ class Developer:
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek0070&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" />
+
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Abishek0070&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&combine_all_yearly_contributions=true" />
 
 </div>
