@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Professional+Bug+Creator+%F0%9F%90%9B;Stack+Overflow+Copy+Paster+%F0%9F%93%9A;Coffee+to+Code+Converter+%E2%98%95;Ctrl+%2B+C+%2B+V+Expert+%F0%9F%92%BB" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500">
 
 ### 🚨 Warning: May commit directly to main 🚨
 
@@ -66,7 +65,6 @@ class Developer:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://i.imgflip.com/65efzo.gif" width="350">
 
 ### AI/ML Tools (My Neural Network Never Converges)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -93,14 +91,12 @@ class Developer:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
 
 **When your code actually works on the first try** ⬆️
 
 <br><br>
 
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
 
 **git push -f origin main** (What could go wrong? )
 
@@ -124,7 +120,6 @@ class Developer:
 ## 🎯 My Workflow
 
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
 
 **99 little bugs in the code...**  
 **Take one down, patch it around...**  
@@ -142,7 +137,6 @@ class Developer:
 [![Fine Tuned LLMs](https://github-readme-stats.vercel.app/api/pin/?username=Abishek0070&repo=Fine_Tuned_LLMs&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/Abishek0070/Fine_Tuned_LLMs)
 [![Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=Abishek0070&repo=Mini_Projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/Abishek0070/Mini_Projects)
 
-<img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" width="300">
 
 **When your code passes all tests** ⬆️
 
