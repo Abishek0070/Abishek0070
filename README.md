@@ -4,7 +4,7 @@
 
 # Yo! I'm Abishek B
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Professional+Bug+Creator+%F0%9F%90%9B;Stack+Overflow+Copy+Paster+%F0%9F%93%9A;Coffee+to+Code+Converter+%E2%98%95;Ctrl+%2B+C+%2B+V+Expert+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Professional+Bug+Creator+%F0%9F%90%9B;Stack+Overflow+%F0%9F%93%9A;Coffee+to+Code+Converter+%E2%98%95" alt="Typing SVG" />
 
 
 ### 🚨 Warning: May commit directly to main 🚨
