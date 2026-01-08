@@ -46,7 +46,7 @@ class Developer:
 <br clear="right"/>
 
 <div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+
 
 **Current Status:** Debugging code that was working 5 minutes ago 🤯
 
@@ -66,16 +66,14 @@ class Developer:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### AI/ML Tools (My Neural Network Never Converges)
+### AI/ML Tools 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="350">
 
-**Me training ML models:** "Please converge... PLEASE! 🙏"
 
 ### Other Tools I Use to Feel Smart
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,48 +85,6 @@ class Developer:
 
 ---
 
-## 📊 GitHub Stats (Don't Judge Me)
-
-<div align="center">
-
-
-**When your code actually works on the first try** ⬆️
-
-<br><br>
-
-
-
-**git push -f origin main** (What could go wrong? )
-
-<br><br>
-
-
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Abishek0070&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-## 🏆 Achievements Unlocked
-
-**Achievement Unlocked:** Spent 3 hours on a bug caused by a typo 🎖️
-
-</div>
-
----
-
-## 🎯 My Workflow
-
-
-
-**99 little bugs in the code...**  
-**Take one down, patch it around...**  
-**127 bugs in the code! 🐛**
-
-</div>
-
-
----
 
 ## 🚀 Projects I'm Proud Of (They Actually Work!)
 
@@ -142,41 +98,7 @@ class Developer:
 
 </div>
 
----
 
-## 💡 Words of Wisdom
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-
-### My Personal Mantras:
-
-> **"It's not a bug, it's a feature"** - Me, every day
-
-> **"Works on my machine ¯\\_(ツ)_/¯"** - Also me
-
-> **"I'll fix it in the next commit"** - Narrator: He didn't
-
-> **"Just one more semicolon..."** - Famous last words
-
-</div>
-
----
-
-## 🐍 My Contributions (I think It Works)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek0070/Abishek0070/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek0070/Abishek0070/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abishek0070/Abishek0070/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
