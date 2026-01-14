@@ -1,148 +1,74 @@
-<div align="center">
+# Abishek.B
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+**AI/ML Engineer | Quantum Computing Enthusiast|AgentiAI Builder**
 
-# Yo! I'm Abishek B
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Professional+Bug+Creator+%F0%9F%90%9B;Stack+Overflow+%F0%9F%93%9A;Coffee+to+Code+Converter+%E2%98%95" alt="Typing SVG" />
-
-
-### 🚨 Warning: May commit directly to main 🚨
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-b-56808533b/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Abishek0070)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31203028)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishekbalamurugan858@gmail.com)
-
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-b-56808533b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?logo=google-chrome&logoColor=white)](https://sage-figolla-8c332e.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:abishekbalamurugan858@gmail.com)
 
 ---
 
-## 🎭 About Me (The Legend)
+## About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I am a passionate AI&ML engineer with a strong focus on developing intelligent systems and exploring the frontiers of quantum computing. My work spans across machine learning model development, full-stack application design, and contributing to open-source projects that advance the field of artificial intelligence.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Abishek B"
-        self.location = "India 🇮🇳"
-        self.job = "AI/ML Enthusiast"
-        self.hobbies = ["Breaking prod", "Googling errors", 
-                       "Blaming git", "Drawing"]
-        self.superpower = "Turning coffee into code"
-        
-    def daily_routine(self):
-        while True:
-            coffee.drink()
-            code.write()
-            bug.create()
-            stackoverflow.copy()
-            git.push("fixed everything")
-            print("It works on my machine! 🤷‍♂️")
-```
-
-<br clear="right"/>
-
-<div align="center">
-
-
-**Current Status:** Debugging code that was working 5 minutes ago 🤯
-
-</div>
+With a foundation in both theoretical computer science and practical software engineering, I strive to build solutions that are not only innovative but also scalable and production-ready.
 
 ---
 
-## 🛠️ My Tech Stack (aka Things I Google Daily)
+## Technical Expertise
 
-<div align="center">
+### Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,r,html,css,flask,fastapi" alt="languages" />
+</p>
 
-### Languages I Pretend to Know
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### AI/ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ai-frameworks" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="48" height="48"/>
+</p>
 
+### AI Agent Development
+<p align="left">
+  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" height="48"/>
+  <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" alt="langgraph" width="48" height="48"/>
+  <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="crewai" width="48" height="48"/>
+</p>
 
-### AI/ML Tools 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-### Other Tools I Use to Feel Smart
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-</div>
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,jupyter,vscode" alt="tools" />
+</p>
 
 ---
 
+## Current Focus
 
-## 🚀 Projects I'm Proud Of (They Actually Work!)
-
-<div align="center">
-
-[![Fine Tuned LLMs](https://github-readme-stats.vercel.app/api/pin/?username=Abishek0070&repo=Fine_Tuned_LLMs&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/Abishek0070/Fine_Tuned_LLMs)
-[![Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=Abishek0070&repo=Mini_Projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/Abishek0070/Mini_Projects)
-
-
-**When your code passes all tests** ⬆️
-
-</div>
-
-
+- 🤖 Building autonomous AI agents with LangGraph and CrewAI for complex task orchestration
+- 🔬 Researching applications of quantum computing in machine learning optimization
+- 🧠 Developing production-ready AI/ML models with FastAPI deployment
+- 📚 Contributing to open-source machine learning libraries and frameworks
+- 🌐 Architecting scalable multi-agent systems for enterprise applications
 
 ---
 
-## 📞 Let's Connect
+## Professional Profiles
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-<br><br>
-
-### Find me on:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-b-56808533b/)
-[![Medium](https://img.shields.io/badge/Medium-Read_My_Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Abishek0070)
-[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishekbalamurugan858@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Check_My_Drawings-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abishek_draws)
-
-</div>
+- **LinkedIn:** [abishek-b-56808533b](https://www.linkedin.com/in/abishek-b-56808533b/)
+- **Medium:** [@Abishek0070](https://medium.com/@Abishek0070)
+- **Stack Overflow:** [Abishek B](https://stackoverflow.com/users/31203028)
+- **Portfolio:** [sage-figolla-8c332e.netlify.app](https://sage-figolla-8c332e.netlify.app/)
 
 ---
 
-<div align="center">
+## Let's Connect
 
-### 🎉 Thanks for Visiting! 🎉
+I'm always interested in collaborating on innovative AI/ML projects, discussing emerging technologies in quantum computing, or contributing to open-source initiatives. Feel free to reach out through any of the platforms above.
 
-<img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="300">
+**Email:** [abishekbalamurugan858@gmail.com](mailto:abishekbalamurugan858@gmail.com)
 
-**Remember:** If your code works, don't touch it! 🚫
+---
 
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-<br>
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
-### May your bugs be few and your coffee strong! ☕💪
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-**Made with ❤️, Coffee ☕, and Stack Overflow 📚**
-
-</div>
