@@ -33,14 +33,14 @@ With a foundation in both theoretical computer science and practical software en
 
 ### AI Agent Development
 <p align="left">
-  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" height="48"/>
-  <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" alt="langgraph" width="48" height="48"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" height="48"/>
+  <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" alt="lamaindex" width="48" height="48"/>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="crewai" width="48" height="48"/>
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,jupyter,vscode" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,linux" alt="tools" />
 </p>
 
 ---
