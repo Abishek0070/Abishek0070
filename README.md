@@ -1,99 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=220&section=header&text=Abishek.B&fontSize=60&fontColor=E2E8F0&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Quantum%20Computing%20%C2%B7%20Agentic%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Abishek B
 
-<br/>
+**AI/ML Engineer · LLM Systems · Agentic AI**
 
-<a href="https://www.linkedin.com/in/abishek-b-56808533b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://sage-figolla-8c332e.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:abishekbalamurugan858@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+
+<a href="https://www.linkedin.com/in/abishek-b-56808533b/">LinkedIn</a>
+  ·   <a href="https://sage-figolla-8c332e.netlify.app/">Portfolio</a>
+  ·   <a href="mailto:abishekbalamurugan858@gmail.com">Email</a>
+  ·   <a href="https://huggingface.co/Abishek0070">Hugging Face</a>
 
 </div>
 
-<br/>
+---
 
-```py
+```python
 class Abishek:
-    def __init__(self):
-        self.role      = "AI/ML Engineer"
-        self.focus     = ["LLM Systems", "Agentic AI", "Quantum Computing"]
-        self.currently = "Building `lamda` — a CLI coding agent"
-        self.mantra    = "ship it, then make it production-grade"
 
-    def say_hi(self):
-        return "let's build something intelligent 🤝"
+    role = "AI/ML Engineer"
+
+    focus = [
+        "LLM Systems",
+        "Agentic AI",
+        "Machine Learning",
+        "AI Infrastructure"
+    ]
+
+    philosophy = "Build → Ship → Break → Harden → Repeat"
 ```
 
-<br/>
+## About
 
-## ⚡ About
+I'm an AI/ML engineer interested in building **practical AI systems**, particularly around LLMs, retrieval, agents and machine learning.
 
-I'm an AI/ML engineer who likes taking systems from *"it works on my laptop"* to production — hybrid-retrieval RAG pipelines, hardened FastAPI backends, and autonomous agents that actually do things. Currently deep in building **lamda**, a Python-based CLI coding agent, and exploring where quantum computing meets ML optimization on the side.
+I enjoy working beyond the model itself — designing retrieval pipelines, building APIs, integrating models, deploying systems and figuring out what breaks when real users start using them.
 
-<br/>
+I've worked on systems ranging from **production RAG applications** to **LLM fine-tuning and agentic workflows**.
 
-## 🧬 Tech Stack
+---
+
+## Areas of Interest
+
+```text
+LLM Systems        RAG · Retrieval · Embeddings · Fine-tuning
+Agentic AI         Tool Calling · Agents · Workflow Orchestration
+Machine Learning   PyTorch · TensorFlow · Transformers
+AI Infrastructure  APIs · Deployment · Docker · Cloud
+Research           ML Optimization · Quantum × ML
+```
+
+---
+
+## AI Systems
+
+### Production RAG
+
+Built and deployed a RAG system used by **500+ students**.
+
+```text
+Documents
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Search
+    ↓
+Retrieval / Reranking
+    ↓
+LLM
+    ↓
+API
+    ↓
+Users
+```
+
+### LLM Fine-tuning
+
+Worked with language-model fine-tuning under **resource-constrained infrastructure**, evaluating model performance before and after training.
+
+### Agentic AI
+
+Exploring systems where LLMs can reason over a task, select tools and execute actions instead of simply generating a response.
+
+```text
+Goal → Reason → Tool → Execute → Observe → Repeat
+```
+
+---
+
+## Open Source
+
+**Open-source contributor** focused on AI and ML tooling.
+
+* LLM infrastructure
+* AI developer tools
+* Agent frameworks
+* Local / open-source models
+* Machine learning tooling
+
+---
+
+## Tech Stack
+
+### Languages
+
+`Python` · `Java` · `JavaScript` · `R`
+
+### AI / ML
+
+`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `LangGraph`
+
+`RAG` · `Embeddings` · `Vector Search` · `Fine-tuning` · `Agents`
+
+### Backend
+
+`FastAPI` · `Flask` · `REST APIs` · `PostgreSQL` · `pgvector`
+
+### Infrastructure
+
+`Docker` · `AWS` · `Linux` · `Git` · `GitHub`
+
+---
+
+## Engineering Philosophy
+
+> A model is only one component of an AI system.
+
+I care about everything around it:
+
+```text
+Retrieval
+   ↓
+Reasoning
+   ↓
+Tooling
+   ↓
+APIs
+   ↓
+Deployment
+   ↓
+Reliability
+   ↓
+Actual Users
+```
+
+The goal:
+
+**"It works on my machine." → "It works when someone else uses it."**
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-**Languages & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,r,html,css,flask,fastapi&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek0070&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
 
-**AI / ML & Data Science**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
-
-**Agentic AI**
-<br/>
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="48" style="border-radius:8px"/>
-<img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="48" height="48" style="border-radius:8px"/>
-<img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="48" height="48" style="border-radius:8px"/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,linux,docker&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek0070&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
-<br/>
+---
 
-## 🚀 Current Focus
-
-```
-[■■■■■■■■■□□]  Building lamda — CLI coding agent (Textual TUI, parallel workspaces)
-[■■■■■■■□□□]  Researching quantum computing × ML optimization
-[■■■■■■■■□□]  Production-grade FastAPI + agent deployments
-[■■■■■■□□□□]  Open-source contributions to ML tooling
-[■■■■■■■■■□]  Placement prep — AI Engineer / ML Engineer / LLM Engineer roles
-```
-
-<br/>
-
-
-
-<br/>
-
-## 🌐 Find Me Elsewhere
+## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abishek-b-56808533b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@Abishek0070"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/31203028"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://huggingface.co/Abishek0070"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/abishek-b-56808533b/">LinkedIn</a>
+  ·   <a href="https://sage-figolla-8c332e.netlify.app/">Portfolio</a>
+  ·   <a href="https://medium.com/@Abishek0070">Medium</a>
+  ·   <a href="https://huggingface.co/Abishek0070">Hugging Face</a>
+  ·   <a href="https://stackoverflow.com/users/31203028">Stack Overflow</a>
+
+<br/><br/>
+
+<sub>Build things. Ship them. Learn from what breaks.</sub>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-*Open to collaborating on agentic AI, LLM systems, and anything that sits at the edge of "should this even work."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0F172A&height=100&section=footer" width="100%"/>
-
-</div>
+```
