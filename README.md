@@ -169,7 +169,7 @@ The goal:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abishek-b-56808533b/">LinkedIn</a>
-  ·   <a href="https://sage-figolla-8c332e.netlify.app/">Portfolio</a>
+  ·   <a href="abishekkk.netlify.app">Portfolio</a>
   ·   <a href="https://medium.com/@Abishek0070">Medium</a>
   ·   <a href="https://huggingface.co/Abishek0070">Hugging Face</a>
   ·   <a href="https://stackoverflow.com/users/31203028">Stack Overflow</a>
