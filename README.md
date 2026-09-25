@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
 
 <a href="https://www.linkedin.com/in/abishek-b-56808533b/">LinkedIn</a>
-  ·   <a href="https://sage-figolla-8c332e.netlify.app/">Portfolio</a>
+  ·   <a href="https://abishekkk.netlify.app/">Portfolio</a>
   ·   <a href="mailto:abishekbalamurugan858@gmail.com">Email</a>
   ·   <a href="https://huggingface.co/Abishek0070">Hugging Face</a>
 
