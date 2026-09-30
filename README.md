@@ -58,23 +58,6 @@ Research           ML Optimization · Quantum × ML
 
 Built and deployed a RAG system used by **500+ students**.
 
-```text
-Documents
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-Vector Search
-    ↓
-Retrieval / Reranking
-    ↓
-LLM
-    ↓
-API
-    ↓
-Users
-```
 
 ### LLM Fine-tuning
 
@@ -106,7 +89,7 @@ Goal → Reason → Tool → Execute → Observe → Repeat
 
 ### Languages
 
-`Python` · `Java` · `JavaScript` · `R`
+`Python` · `Golang` 
 
 ### AI / ML
 
@@ -124,45 +107,11 @@ Goal → Reason → Tool → Execute → Observe → Repeat
 
 ---
 
-## Engineering Philosophy
-
-> A model is only one component of an AI system.
-
-I care about everything around it:
-
-```text
-Retrieval
-   ↓
-Reasoning
-   ↓
-Tooling
-   ↓
-APIs
-   ↓
-Deployment
-   ↓
-Reliability
-   ↓
-Actual Users
-```
 
 The goal:
 
 **"It works on my machine." → "It works when someone else uses it."**
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abishek0070&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek0070&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
 
 ## Connect
 
